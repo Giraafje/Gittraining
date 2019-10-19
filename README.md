@@ -1,4 +1,4 @@
 # Gittraining
 Gittraining PyLadies
-# nadpis
+## nadpis
 nejaky text
